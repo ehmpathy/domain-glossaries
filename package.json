@@ -2,7 +2,7 @@
   "name": "domain-glossaries",
   "author": "ehmpathy",
   "description": "tools that aid the declaration of domain glossaries",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "repository": "ehmpathy/domain-glossaries",
   "homepage": "https://github.com/ehmpathy/domain-glossaries",
   "keywords": [
